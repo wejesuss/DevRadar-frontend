@@ -30,7 +30,7 @@ Com o DevRadar você pode cadastrar e encontrar devs em sua região.
 
 ## :interrobang: Motivo
 
-O objetivo é unir e os desenvolvedores com aqueles que precisam deles. Você pode encontrar seu dev na sua região ou se você for o dev, divulgar sua localização e ser mais encontrável.
+O objetivo é unir os desenvolvedores com aqueles que precisam deles. Você pode encontrar seu dev na sua região ou se você for o dev, divulgar sua localização e ser mais encontrável.
 
 ## :rocket: Tecnologias Utilizadas 
 
